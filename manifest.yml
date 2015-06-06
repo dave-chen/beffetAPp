@@ -1,0 +1,6 @@
+---
+applications:
+- name: buffet
+  path: ./target/buffet-1.0.jar
+  memory: 512M
+  instances: 1
